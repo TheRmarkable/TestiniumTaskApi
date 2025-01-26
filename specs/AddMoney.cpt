@@ -1,0 +1,22 @@
+# Open Add Money Page
+
+* Click on "addMoneyButton"
+
+# Enter Card Number
+
+* Type "1234 1234 1234 1234" into "cardNumberInput" element
+
+# Enter Card Holder
+* Type "Test Surname" into "cardHolderInput" element
+
+# Enter Expiry Date
+* Type "1129" into "expiryDateInput" element
+
+# Enter CVV Date
+* Type "123" into "cvvInput" element
+
+# Enter Amount
+* Type "400" into "amountInput" element
+
+# Click on Add Button
+* Click on "addButton"

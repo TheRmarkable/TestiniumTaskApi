@@ -1,0 +1,14 @@
+Created by logiweaveworkbook on 1/26/25
+
+This is a concept file with following syntax for each concept.
+# Open Edit Account Page
+* Click on "editAccountButton"
+# Enter New Account Name
+* Send "CLEAR" action to element with key "accountNameInput"
+* Wait "2000" ms
+* Type "Test acc name" into "accountNameInput" element
+# Click on Update Button
+* Click on "updateButton"
+# Verify the name
+* Wait "2000" ms
+* The text of the "accountNameValue" element assert "Test acc name"

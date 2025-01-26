@@ -1,0 +1,18 @@
+# Open Transfer Money Page
+
+* Click on "transferMoneyButton"
+
+# Type Amount Input
+* Type "100" into "amountInput" element
+
+# Click Send Button
+* Click on "sendButton"
+
+# Save Amount Before Transfer
+* Get text of "amount" and store it in scenario store with "amountBefore"
+
+# Save Amount After Transfer
+* Get text of "amount" and store it in scenario store with "amountAfter"
+
+# Verify the expected remaining result
+* The text of the "amount" element assert with scenario store "amountBefore" minus "amountAfter"

@@ -1,0 +1,8 @@
+# Login with ID , password , and browsers <browsers>
+* Open <browsers> and get "https://catchylabs-webclient.testinium.com/signIn"
+* Wait "2000" ms
+* Type "berkcengiz" into "username" element
+* Type "n4CpA8q2m!bff" into "password" element
+* Click on "loginButton"
+* Wait "3000" ms
+* Click on "openButton"

@@ -1,0 +1,10 @@
+{
+  "username": {
+    "locatorType": "id",
+    "locatorValue": "username"
+  },
+  "loginButton": {
+    "locatorType": "css",
+    "locatorValue": "#loginButton"
+  }
+}

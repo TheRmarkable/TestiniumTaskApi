@@ -1,0 +1,8 @@
+[
+	"/usr/local/bin/gauge",
+	"run",
+	"--machine-readable",
+	"--hide-suggestion",
+	"--simple-console",
+	"/home/logiweaveworkbook/Desktop/TestiniumTask/Web.Automation/specs/EditAccount.spec:3"
+]

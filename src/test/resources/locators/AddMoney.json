@@ -1,0 +1,50 @@
+{
+  "username": {
+    "locatorType": "CSS_SELECTOR",
+    "locatorValue": "input[placeholder='Username']"
+  },
+  "password": {
+    "locatorType": "CSS_SELECTOR",
+    "locatorValue": "input[placeholder='Password']"
+  },
+  "loginButton": {
+    "locatorType": "TEXT",
+    "locatorValue": "Login"
+  },
+  "openButton": {
+    "locatorType": "TEXT",
+    "locatorValue": "Open Money Transfer"
+  },
+  "verifyApp": {
+    "locatorType": "TEXT",
+    "locatorValue": "My account"
+  },
+  "addMoneyButton": {
+    "locatorType": "TEXT",
+    "locatorValue": "Add money"
+  },
+  "cardNumberInput": {
+    "locatorType": "XPATH",
+    "locatorValue": "(//input[@class='css-11aywtz r-6taxm2 r-1eh6qqt r-z2wwpe r-rs99b7 r-h3s6tt r-1qhn6m8'])[1]"
+  },
+  "cardHolderInput": {
+    "locatorType": "XPATH",
+    "locatorValue": "(//input[@class='css-11aywtz r-6taxm2 r-1eh6qqt r-z2wwpe r-rs99b7 r-h3s6tt r-1qhn6m8'])[2]"
+  },
+  "expiryDateInput": {
+    "locatorType": "XPATH",
+    "locatorValue": "(//input[@class='css-11aywtz r-6taxm2 r-1eh6qqt r-z2wwpe r-rs99b7 r-h3s6tt r-1qhn6m8'])[3]"
+  },
+  "cvvInput": {
+    "locatorType": "XPATH",
+    "locatorValue": "(//input[@class='css-11aywtz r-6taxm2 r-1eh6qqt r-z2wwpe r-rs99b7 r-h3s6tt r-1qhn6m8'])[4]"
+  },
+  "amountInput": {
+    "locatorType": "XPATH",
+    "locatorValue": "(//input[@class='css-11aywtz r-6taxm2 r-1eh6qqt r-z2wwpe r-rs99b7 r-h3s6tt r-1qhn6m8'])[5]"
+  },
+  "addButton": {
+    "locatorType": "TEXT",
+    "locatorValue": "Add"
+  }
+}
